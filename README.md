@@ -34,13 +34,13 @@
 
 ## 🚀 Featured Projects
 
-### 🏢 Go-based CRM Application
+### [🏢 Go-based CRM Application] (https://github.com/tim-contact/go-crm)
 Full-stack Customer Relationship Management system for an overseas-study consultancy with secure authentication, API-driven operations, and containerized architecture.
 - **Tech:** Go (Gin, GORM), PostgreSQL, Redis, Docker Compose, JWT
 - **Features:** Student-lead tracking, secure authentication, database-driven management
 - **Architecture:** Modular, containerized microservices
 
-### 🎉 Unveil – Event Discovery Platform
+### 🎉 Unveil – Event Discovery Platform 
 Real-time event discovery and management platform with mobile and web interfaces.
 - **Tech:** Flutter, Node.js, Express, Firebase, PostgreSQL
 - **Role:** Led mobile development, built Flutter app from scratch
