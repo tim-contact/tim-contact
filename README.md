@@ -34,19 +34,19 @@
 
 ## 🚀 Featured Projects
 
-### [🏢 Go-based CRM Application] (https://github.com/tim-contact/go-crm)
+### [🏢 Go-based CRM Application](https://github.com/tim-contact/go-crm)
 Full-stack Customer Relationship Management system for an overseas-study consultancy with secure authentication, API-driven operations, and containerized architecture.
 - **Tech:** Go (Gin, GORM), PostgreSQL, Redis, Docker Compose, JWT
 - **Features:** Student-lead tracking, secure authentication, database-driven management
 - **Architecture:** Modular, containerized microservices
 
-### 🎉 Unveil – Event Discovery Platform 
+### [🎉 Unveil – Event Discovery Platform](https://github.com/tim-contact/unveil_app)  
 Real-time event discovery and management platform with mobile and web interfaces.
 - **Tech:** Flutter, Node.js, Express, Firebase, PostgreSQL
 - **Role:** Led mobile development, built Flutter app from scratch
 - **Features:** Real-time updates, location-based discovery, organizer dashboards
 
-### 🤖 Minesweeper AI Agent (CS50 AI)
+### [🤖 Minesweeper AI Agent (CS50 AI)]
 Autonomous Minesweeper solver using propositional logic and knowledge-based reasoning.
 - **Tech:** Python, AI algorithms
 - **Approach:** Knowledge representation, logical inference, constraint satisfaction
@@ -58,12 +58,12 @@ Optimal game-playing agent guaranteeing perfect play using adversarial search.
 - **Features:** Recursive game tree evaluation, optimal move selection
 - **Concepts:** Game theory, state space modeling
 
-### 🌱 Online Seed Marketplace
+### [🌱 Online Seed Marketplace](https://github.com/sajithcode/seed_seeker)
 Full-stack marketplace platform for buying and selling cultivated seeds.
 - **Tech:** Next.js, RESTful APIs, PostgreSQL
 - **Role:** Full backend responsibility - API design, database structure, authentication
 
-### 💊 Medical Inventory Management System
+### [💊 Medical Inventory Management System](https://github.com/kavindalj/MediTrack_SUSL)
 Healthcare inventory platform with real-time tracking and management.
 - **Tech:** RESTful APIs, database migrations
 - **Features:** Product management, inventory updates, relational data integrity
