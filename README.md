@@ -8,6 +8,7 @@
 - 💼 Focus areas: Full-stack development, scalable API design, database optimization
 - 🎯 Interests: AI/ML, system-level programming, open-source development, Linux customization
 - 📫 Reach me: **timothysdissanayake@gmail.com**
+- 🌐 My Website: [tim-contact](tim-contact.online)
 
 ## 🛠️ Tech Stack
 
