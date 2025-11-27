@@ -46,7 +46,7 @@ Real-time event discovery and management platform with mobile and web interfaces
 - **Role:** Led mobile development, built Flutter app from scratch
 - **Features:** Real-time updates, location-based discovery, organizer dashboards
 
-### [🤖 Minesweeper AI Agent (CS50 AI)]
+### 🤖 Minesweeper AI Agent (CS50 AI)
 Autonomous Minesweeper solver using propositional logic and knowledge-based reasoning.
 - **Tech:** Python, AI algorithms
 - **Approach:** Knowledge representation, logical inference, constraint satisfaction
